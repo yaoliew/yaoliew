@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Yao 👋</h1>
 
-<!--
-**yaoliew/yaoliew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Projects
+🚀 Apps
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 Research
+**[RobustSmishX(https://github.com/yaoliew/textattack-demo)]**: Building more robust models against LLM attacks
+**[TwitterBot](https://github.com/yaoliew/TwitterBotReal)**: NLP project for assessing political division on Twitter (now X)
+**[Cosmiquake](https://github.com/yaoliew/Cosmiquake_LS)**: Modelling global earthquake occurrences with cosmic rays
+
+🎮 Games
+All my games can be found at **[Yam Studios](https://yam-studios.itch.io/)**!
