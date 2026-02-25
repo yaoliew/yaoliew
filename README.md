@@ -3,7 +3,7 @@
 
 **[prosen](https://github.com/yaoliew/profi)**: Side projects that worked.
 
-**[[Wisp](https://github.com/yaoliew/Wisp)]**: Telephony voice agent for spam/scam call detection
+**[Wisp](https://github.com/yaoliew/Wisp)**: Telephony voice agent for spam/scam call detection
 
 **[Financial Analytics Engine](https://github.com/yaoliew/python-financial-project)**: mini financial analytics engine with a bunch of features
 
