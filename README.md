@@ -1,7 +1,7 @@
 # Project Directory
 ## 🚀 **Apps**
 
-**[prosen](https://github.com/yaoliew/profi)**: Side projects that worked.
+**[Prosen](https://github.com/yaoliew/profi)**: Side projects that worked
 
 **[Wisp](https://github.com/yaoliew/Wisp)**: Telephony voice agent for spam/scam call detection
 
